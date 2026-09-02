@@ -19,4 +19,5 @@ A sleek, responsive, and keyboard-supported calculator built with vanilla HTML, 
 - 
 
 ## 📁 Project Structure
-![Calculator Screenshot](./screenshot.png)
+
+<img src="./screenshot.png" alt="Calculator Screenshot" width="600" />

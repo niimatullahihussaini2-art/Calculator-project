@@ -3,7 +3,7 @@
 A sleek, responsive, and keyboard-supported calculator built with vanilla HTML, CSS, and JavaScript. Designed to demonstrate clean front-end architecture and attention to UX/UI details.
 
 ## 🚀 Live Demo
-[View it live on GitHub Pages](https://niimatullahihussaini2-art.github.io/calculator-project/)
+[View it live on GitHub Pages](https://niimatullahihussaini2-art.github.io/Calculator-project/)
 
 ## ✨ Features
 - Basic arithmetic (+, -, ×, ÷)

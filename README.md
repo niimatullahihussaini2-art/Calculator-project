@@ -16,5 +16,7 @@ A sleek, responsive, and keyboard-supported calculator built with vanilla HTML, 
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
 - Vanilla JavaScript (ES6)
+- 
 
 ## 📁 Project Structure
+![Calculator Screenshot](./screenshot.png)
